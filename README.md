@@ -2,7 +2,7 @@
 
 ## Usage
 
-To browse the page, run the serve `script` on the command line:
+To browse the page, run the `serve` script on the command line:
 
     ./serve
 
