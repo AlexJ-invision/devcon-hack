@@ -1,0 +1,3 @@
+#!/bin/sh
+
+npx --yes live-server .

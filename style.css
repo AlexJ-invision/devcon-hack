@@ -1,0 +1,17 @@
+:root {
+  font-size: 14px;
+  --fg: #0d0d0d;
+  --bg: #ededed;
+
+  @media (prefers-color-scheme: dark) {
+    --fg: #e6e6e6;
+    --bg: #1d1d1d;
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: sans-serif;
+}
