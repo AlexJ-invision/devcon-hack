@@ -8,9 +8,9 @@ To browse the page, run the `serve` script on the command line:
 
 ## Task Guidance
 
-Here are some inspirations for the nads-on sessions. They should only guide you, this is not a hard task list.
+Here are some inspirations for the hands-on sessions. They should only guide you, this is not a hard task list.
 
-- Rebuild our form compponents with react-area components
+- Rebuild our form components with react-area components
 - Play with advanced usages of grid, subgrid, container queries, size ranges (clamp, etc.)
 - Build an own list/tiles component using the tools above together with tailwind
 
