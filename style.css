@@ -15,3 +15,26 @@ body {
   color: var(--fg);
   font-family: sans-serif;
 }
+
+.container {
+  padding: 1rem;
+}
+
+.list {
+  display:grid;
+  grid-auto-flow: dense;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  grid-template-rows: masonry;
+}
+
+ul li {
+  margin:1rem;
+  padding:1rem;
+  border:1px red dashed;
+  list-style: none;
+  position: relative;
+}
+
+.breit {
+  grid-column: span 2;
+}
