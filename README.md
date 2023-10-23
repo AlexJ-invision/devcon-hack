@@ -28,5 +28,5 @@ Here are some inspirations for the hands-on sessions. They should only guide you
   - https://developer.mozilla.org/en-US/docs/Web/CSS/min
   - https://developer.mozilla.org/en-US/docs/Web/CSS/max
   - https://developer.mozilla.org/en-US/docs/Web/CSS/clamp
-- React Ara Components
+- React Aria Components
   - https://react-spectrum.adobe.com/react-aria/TextField.html
